@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -wc bin /tec/passwd
+grep -ci bin /tec/passwd
